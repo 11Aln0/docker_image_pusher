@@ -2,8 +2,8 @@
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
+rclone/rclone
 #支持指定架构
---platform=linux/arm64 hello-world
---platform=linux/arm64 openeuler/cann:8.0.RC1-oe2203sp4
+# --platform=linux/arm64 hello-world
 
 
